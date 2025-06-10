@@ -11,7 +11,7 @@ window.addEventListener('beforeunload', () => {
 });
 function start() {
   
-    let countdown = 5;
+    let countdown = 1;
 
     for (let i = 0; i < countdown; i++) {
         setTimeout(() => {
